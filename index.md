@@ -6,6 +6,8 @@ tagline: Andre and Amelia's Wedding Page
 {% include JB/setup %}
 
 
+#### Proper Text Here
+
 <div style="float: left">
 
 #### Text Here

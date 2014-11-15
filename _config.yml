@@ -134,6 +134,5 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-  category-list: [code, cs, editors, math, unix]
-  categories: [code, cs, editors, math, unix]
-#  category-list: [about]
+
+category-list: [about, logistics]

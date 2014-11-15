@@ -20,51 +20,32 @@
 			<div class="unit-inner unit-head-inner">
 				<nav class="nav-global">
 					<ul>
-
-<ul>
-  {% assign categories_list = site.categories %}
-  {% include JB/categories_list %}
-</ul>
-
-{{ site.name }}
-<!-- Pre List -->
-{% for page in site.pages %}
-<!-- Page List -->
-{{ page.categories }}
-{% endfor %}
-
-
-<!-- Cat List 1-->
-{{ site.categories }}
-<!-- Cat List 2-->
-{{ site.category-list }}
-
-<!-- Cat List MAIN-->
-
-{% for cat in site.categories %}
+						<li class="logo"><a href="/">{{ site.title }}</a></li>
+{% for cat in site.category-list %}
 <!-- LIST DEBUG: -->
-{{ cat }}
-<ul>
+<!-- {{ cat }}  -->
+<li>
+  {{ cat }}</a>
+</li>
 {% for page in site.pages %}
 {% if page.resource == true %}
 {% for pc in page.categories %}
 {% if pc == cat %}
 <li>
-  <a href="{{ page.url }}">{{ page.title }}</a> &mdash; {{ page.desc }}
+  <a href="{{ page.url }}">{{ page.title }}</a>
 </li>
 {% endif %} <!-- cat-match-p -->
 {% endfor %} <!-- page-category -->
 {% endif %} <!-- resource-p -->
 {% endfor %} <!-- page -->
-</ul>
+
 {% endfor %} <!-- cat -->
 
-
-						<li class="logo"><a href="/">{{ site.title }}</a></li>
-<!--						<li class="archive"><a href="/archive.html">archive</a></li> -->
+<!--						<li class="archive"><a href="/archive.html">archive</a></li> --
 						<li class="page"><a href="/pages.html">pages</a></li>
 						<li class="category"><a href="/categories.html">categories</a></li>
 						<li class="tag"><a href="/tags.html">tags</a></li>
+-->
 					</ul>
 				</nav>
 			</div><!-- unit-inner -->
