@@ -5,4 +5,4 @@ categories : [logistics]
 resource: true
 ---
 
-weddednerd@gmail.com
+<mailto:weddednerd@gmail.com>
