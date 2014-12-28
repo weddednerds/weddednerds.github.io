@@ -28,12 +28,9 @@ Much much more recently (2007) Andre and Amelia met and became friends at Hamlin
 
  As for when the relationship officaly began, Andre marks their night out on the town as the start (April 5th) while Amelia marks the following day (April 6th) because that is when Andre stated "I guess I should change my facebook status." Regardless, the two have been happily together ever since. 
  
- ###After the Beginning 
- Andre and Amelia have lived in three apartments and two houses together. They hope that the next move will be a more permanent one, involving purchasing a house. 
+###After the Beginning 
+Andre and Amelia have lived in three apartments and two houses together. They hope that the next move will be a more permanent one, involving purchasing a house. 
  
- They have had the opportunity to travel to various places together, including Seattle, Denver, Chicago, China and Hong Kong. While in China involved a visit to a less-than ideal Chinese hospital the two still remember the trip fondly. 
+They have had the opportunity to travel to various places together, including Seattle, Denver, Chicago, China and Hong Kong. While in China involved a visit to a less-than ideal Chinese hospital the two still remember the trip fondly. 
  
- They also enjoy pina colodads, getting caught in the rain and are not into yoga...kidding. Really they are both big nerds and love going to conventions, spending weekends playing board games and arguing the finer points of time travel. 
-
-
-
+They also enjoy pina colodads, getting caught in the rain and are not into yoga...kidding. Really they are both big nerds and love going to conventions, spending weekends playing board games and arguing the finer points of time travel. 
