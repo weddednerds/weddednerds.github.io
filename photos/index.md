@@ -59,3 +59,6 @@ categories: [about]
 </div>
 
 </div>
+
+Photography Credit: Guy Wagner
+<a href="http://vestandveil.tumblr.com/">vestandveil.tumblr.com</a>
