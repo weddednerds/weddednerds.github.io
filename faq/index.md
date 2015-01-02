@@ -49,7 +49,7 @@ If interested we recommend guests watch/rewatch or play/replay these great TV sh
 
 **Does this mean that people in the wedding are going to be dressed as Wookies or Storm Troopers?**
 
-No, while we will be working in subtle elements of our favorites into the wedding we are, currently not planning and making any of our wedding party dress up in full costume (though we are sure they would eagerly agree too). Also, Wookies and Storm Troopers, while awesome, are from <a href="http://en.wikipedia.org/wiki/Comparison_of_Star_Trek_and_Star_Wars">Star Wars</a>, another emblematic example of SciFi.
+No, while we will be working in subtle elements of our favorites into the wedding we are, currently not planning and making any of our wedding party dress up in full costume (though we are sure they would eagerly agree to). Also, Wookies and Storm Troopers, while awesome, are from <a href="http://en.wikipedia.org/wiki/Comparison_of_Star_Trek_and_Star_Wars">Star Wars</a>, another emblematic example of SciFi.
 
 **Does that mean I shouldn't arrive dressed as <a href="http://images1.wikia.nocookie.net/__cb20090415161458/memoryalpha/de/images/7/76/Picard_und_Earl_Grey.jpg">Picard</a>/What is the dress code?**
 
