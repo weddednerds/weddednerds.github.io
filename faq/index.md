@@ -9,7 +9,7 @@ resource: true
 
 No. We plan to lock the doors from the outside and cackle loudly while all the guests starve to death. 
 
-Just kidding, there will be delicious food from Rusty Taco and Nate Dogs [link to both sites]
+Just kidding, there will be delicious food from <a href="http://www.rustytacomn.com/">Rusty Taco</a> and <a href="http://www.natedogs.com/">Nate Dogs</a>.
 
 **Will there be alcohol?**
 
