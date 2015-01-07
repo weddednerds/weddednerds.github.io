@@ -27,7 +27,7 @@
 		<div class="unit-head">
 			<div class="unit-inner unit-head-inner">
 				<nav class="nav-global">
-					<ul>
+					<ul style="color: #adadad">
 						<li class="logo"><a href="/">{{ site.title }}</a></li>
 {% for cat in site.category-list %}
 <!-- LIST DEBUG: -->
@@ -40,7 +40,7 @@
 {% for pc in page.categories %}
 {% if pc == cat %}
 <li>
-  <a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
+  <a style="color: #efefef;" href="{{ page.url }}">{{ page.title }}</a>
 </li>
 {% endif %} <!-- cat-match-p -->
 {% endfor %} <!-- page-category -->
