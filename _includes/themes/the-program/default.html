@@ -8,15 +8,17 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>{{ page.title }}</title>
 	<meta name="author" content="{{ site.author.name }}">
-
+	<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 	<link href="{{ ASSET_PATH }}/css/bootstrap.min.css" rel="stylesheet">
-	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
 	<link rel="stylesheet" href='{{ ASSET_PATH }}/css/slimbox2.css' type="text/css" media="screen" />
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
+	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
+
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script type="text/javascript" src="{{ ASSET_PATH }}/js/slimbox2.js"></script>
 	<script type="text/javascript" src="{{ ASSET_PATH }}/js/masonry.pkgd.min.js"></script>
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+
 </head>
 <body>
 
@@ -38,7 +40,7 @@
 {% for pc in page.categories %}
 {% if pc == cat %}
 <li>
-  <a href="{{ page.url }}">{{ page.title }}</a>
+  <a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
 </li>
 {% endif %} <!-- cat-match-p -->
 {% endfor %} <!-- page-category -->
