@@ -5,15 +5,50 @@ categories : [about]
 resource: true
 ---
 
-Rose (Maid of Honor)
---------------------
+<div class="container">
 
+
+<div class="row">
+  <div class="col-xs-12">
+  <h3>
+    Rose (Maid of Honor)
+  </h3>
+  </div>
+
+  <div class="col-xs-4">
+    <a href="https://s3.amazonaws.com/weddednerds.com/Rose.jpg" class="thumbnail" rel="lightbox-cats">
+      <img src="https://s3.amazonaws.com/weddednerds.com/Rose.jpg" class="img-responsive">
+    </a>
+  </div>
+
+  <div class="col-xs-8">
 Rose is lucky enough to be the only person in this group to be related to Amelia. This means that she knows ALL the embarrassing stories - if you're interested please ask. When she's not busy helping Amelia plan the Wedding Of The Year (really, why not) she's raising three amazing kids, baking incredible food and looking for the next book to read.
+</div>
+</div>
 
-Will Newby (Best Man)
-----------------------
 
+<div class="row">
+  <div class="col-xs-12">
+  <h3>
+  Will Newby (Best Man)
+  </h3>
+  </div>
+
+  <div class="col-xs-8">
 Will has been taking apart computers for playing games with Andre since 2005, even though those computers didn't really start working until 2006 (it was a long process, we broke stuff). Will's still taking things apart and, though he lives in Chicago, still loves Andre and Amelia from afar. 
+</div>
+  <div class="col-xs-4">
+    <a href="https://s3.amazonaws.com/weddednerds.com/will.jpg" class="thumbnail" rel="lightbox-cats">
+      <img src="https://s3.amazonaws.com/weddednerds.com/will.jpg" class="img-responsive">
+    </a>
+  </div>
+
+</div>
+
+
+
+</div>
+
 
 Anna Sahli
 ----------------------
