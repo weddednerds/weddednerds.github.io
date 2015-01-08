@@ -1,4 +1,4 @@
-change font
-add wedding party pictures (every-other-every-other gallery-style)
-registry formatting (pic before link?)
-RSVP - web form
+-- change font -- done
+-- add wedding party pictures (every-other-every-other gallery-style) -- done
+-- registry formatting (pic before link?) -- Not sure here... gotta talk to andre
+-- RSVP - web form -- up in default form
