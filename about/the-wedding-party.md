@@ -25,7 +25,7 @@ party:
 Rocking the halls since 6th grade, Amelia and Steph have been through so many fun times and she couldn't be happier for the couple!"
     align: left
     image: "steph.jpg"
-  - name: "Kris Freelix"
+  - name: "Kris Frelix"
     desc: "If you're going to be a character there is none better than yourself. I like to believe there's nothing more daring than loving you and surrounding yourself with those who feel the same. Great friends help us play our roles in life and I'm honoured to be around two who are setting their stage and writing a story unlike any other."
     align: right
     image: "kris1.jpg"

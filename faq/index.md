@@ -42,11 +42,10 @@ While we enjoy meeting new people we ask that the only guests that arrive on the
 Does this wedding have a theme?
 -
 
-What prescient question! We do have a theme: SciFi (aka Science Fiction)! One of the things we feel helped bring us together was our shared love of nerdy things such as SciFi books, movies and games. As such we've decided to incorporate some of our favorites into the wedding. They are:
+What a prescient question! We do have a theme: SciFi (aka Science Fiction)! One of the things we feel helped bring us together was our shared love of nerdy things such as SciFi books, movies and games. As such we've decided to incorporate some of our favorites into the wedding. They are:
 
 - <a href="http://en.wikipedia.org/wiki/Futurama">Futurama</a>
 - <a href="http://en.wikipedia.org/wiki/Doctor_Who">Doctor Who</a>
-- <a href="http://en.wikipedia.org/wiki/The_Fifth_Element">Fifth Element</a>
 - <a href="http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation">Star Trek</a>
 - <a href="http://en.wikipedia.org/wiki/Firefly_%28TV_series%29">Firefly</a>
 - <a href="http://en.wikipedia.org/wiki/Portal_%28video_game%29">Portal</a>
@@ -62,7 +61,7 @@ No, while we will be working in subtle elements of our favorites into the weddin
 Does that mean I shouldn't arrive dressed as <a href="http://images1.wikia.nocookie.net/__cb20090415161458/memoryalpha/de/images/7/76/Picard_und_Earl_Grey.jpg">Picard</a>/What is the dress code?
 -
 
-We encourage you to come dressed in whatever you are most comfortable. If that means dressing up as a dalek or Jayne all the better. For those who do not feel inclined to dress up as a character semi-casual is a good bet.
+We encourage you to come dressed in whatever you are most comfortable. If that means dressing up as a Dalek or Jayne all the better. For those who do not feel inclined to dress up as a character semi-casual is a good bet.
 
 Do you have any other questions?
 -
