@@ -6,9 +6,7 @@ categories: [about]
 ---
 
 ## How do I get my photos to show up here?
-It's easy! You just have to post them to one of the following services:
-
-- Facebook - Twitter - Instagram - Google+ - Vine - Flickr 
+It's easy! You just have to post them to one of the following services: Facebook - Twitter - Instagram - Google+ - Vine - Flickr 
 
 And hashtag them <b>#weddednerds</b>. (or if you're not sure what that is, just put "#weddednerds" in your message when you post) 
 
